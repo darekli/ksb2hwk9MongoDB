@@ -31,7 +31,7 @@ public class Start {
            fuelRepo.save(fuel1);
         fuelRepo.save(fuel2);
 
-
+//
 //        System.out.println(toyRepo.findById("5dc3d23fb1cf434563f2de90").get());
 //        toyRepo.findAll().forEach(System.out::println);
 
